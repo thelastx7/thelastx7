@@ -35,38 +35,47 @@ I'm a **Cybersecurity Engineering student** based in Morocco, focused on Offensi
 
 ## ⚙️ Tech Stack
 
-**Languages**
+<table align="center">
+<tr>
+<td align="center" width="140"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=py,java,js,c,cpp,cs&theme=dark&perline=6" /></td>
+</tr>
+<tr>
+<td align="center"><b>Web</b></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,nodejs,express&theme=dark&perline=6" /></td>
+</tr>
+<tr>
+<td align="center"><b>Frameworks</b></td>
+<td><img src="https://skillicons.dev/icons?i=flask,django&theme=dark&perline=6" /></td>
+</tr>
+<tr>
+<td align="center"><b>Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark&perline=6" /></td>
+</tr>
+<tr>
+<td align="center"><b>DevOps & Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash,vscode,idea,postman&theme=dark&perline=8" /></td>
+</tr>
+<tr>
+<td align="center"><b>AI / Data</b></td>
+<td><img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,opencv&theme=dark&perline=6" /></td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=py,java,js,c,cpp,cs&theme=dark" />
+<br>
 
-**Web**
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,nodejs,express&theme=dark" />
+**Cybersecurity Arsenal**
 
-**Frameworks**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=1a1b27)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=1a1b27)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white&labelColor=1a1b27)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=1a1b27)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=1a1b27)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1b27)
 
-<img src="https://skillicons.dev/icons?i=flask,django&theme=dark" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
-
-**DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash,vscode,idea,postman&theme=dark" />
-
-**Cybersecurity**
-
-<img src="https://skillicons.dev/icons?i=kali&theme=dark" />
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-
-**AI / Data**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,opencv&theme=dark" />
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</div>
 
 <br>
 
@@ -86,7 +95,13 @@ I'm a **Cybersecurity Engineering student** based in Morocco, focused on Offensi
 
 <div align="center">
 
-[![face_id_project](https://github-readme-stats.vercel.app/api/pin/?username=thelastx7&repo=face_id_project&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/thelastx7/face_id_project)
+<a href="https://github.com/thelastx7/face_id_project">
+  <img src="https://raw.githubusercontent.com/thelastx7/face_id_project/main/assets/face_id_banner.svg" width="100%" alt="face_id_project banner" />
+</a>
+
+<br><br>
+
+[![Repo](https://img.shields.io/badge/View_Repository-thelastx7%2Fface__id__project-7aa2f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)](https://github.com/thelastx7/face_id_project)
 
 </div>
 
