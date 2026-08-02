@@ -38,11 +38,11 @@ I'm a **Cybersecurity Engineering student** based in Morocco, focused on Offensi
 <table align="center">
 <tr>
 <td align="center" width="140"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=py,java,js,c,cpp,cs&theme=dark&perline=6" /></td>
+<td><img src="https://skillicons.dev/icons?i=py,java,js,c&theme=dark&perline=6" /></td>
 </tr>
 <tr>
 <td align="center"><b>Web</b></td>
-<td><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,nodejs,express&theme=dark&perline=6" /></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs&theme=dark&perline=6" /></td>
 </tr>
 <tr>
 <td align="center"><b>Frameworks</b></td>
