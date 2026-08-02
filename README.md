@@ -58,7 +58,7 @@ I'm a **Cybersecurity Engineering student** based in Morocco, focused on Offensi
 </tr>
 <tr>
 <td align="center"><b>AI / Data</b></td>
-<td><img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,opencv&theme=dark&perline=6" /></td>
+<td><img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&theme=dark&perline=6" /></td>
 </tr>
 </table>
 
